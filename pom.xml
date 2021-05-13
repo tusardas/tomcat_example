@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-	    <tomcat.version>7.0.76</tomcat.version>
+	    <tomcat.version>7.0.107</tomcat.version>
 	    <servlet-api.version>6.0.53</servlet-api.version>
 	</properties>
 	
